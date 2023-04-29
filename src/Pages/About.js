@@ -3,9 +3,7 @@ import Jambotron from "../Components/Jambotron";
 
 const About = () => {
   return (
-    <>
   <Jambotron  />
-  </>
   )
 };
 
