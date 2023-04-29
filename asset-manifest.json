@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react.bootstrap/static/css/main.44f8b8b5.css",
-    "main.js": "/react.bootstrap/static/js/main.e32c85f8.js",
+    "main.js": "/react.bootstrap/static/js/main.69ff8164.js",
     "static/js/787.a521b789.chunk.js": "/react.bootstrap/static/js/787.a521b789.chunk.js",
     "static/media/imgCard4.jpg": "/react.bootstrap/static/media/imgCard4.49a3c030a924fda702a8.jpg",
     "static/media/imgCard2.jpg": "/react.bootstrap/static/media/imgCard2.9a2f3d71ce877b8c809f.jpg",
@@ -20,11 +20,11 @@
     "static/media/linkedin.svg": "/react.bootstrap/static/media/linkedin.4975a61af4ca36320b650f4bd3b69e72.svg",
     "static/media/facebook.svg": "/react.bootstrap/static/media/facebook.8a4d751423bdc39508a9e8db5a9e1160.svg",
     "main.44f8b8b5.css.map": "/react.bootstrap/static/css/main.44f8b8b5.css.map",
-    "main.e32c85f8.js.map": "/react.bootstrap/static/js/main.e32c85f8.js.map",
+    "main.69ff8164.js.map": "/react.bootstrap/static/js/main.69ff8164.js.map",
     "787.a521b789.chunk.js.map": "/react.bootstrap/static/js/787.a521b789.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.44f8b8b5.css",
-    "static/js/main.e32c85f8.js"
+    "static/js/main.69ff8164.js"
   ]
 }
